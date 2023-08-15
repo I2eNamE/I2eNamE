@@ -1,4 +1,24 @@
-### Hi there 👋
+## Hi there
+
+## About Me
+
+I'm Tapanawat, 
+
+
+
+
+
+## Contact
+
+Feel free to reach out to me via [Email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+
+
+
+
+
+
+
+
 
 <!--
 **I2eNamE/I2eNamE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
