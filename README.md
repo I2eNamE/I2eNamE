@@ -10,7 +10,7 @@ I'm Tapanawat,
 
 ## Contact
 
-Feel free to reach out to me via [Email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feel free to reach out to me via [Email](tapanawat2004@gmail.com) 
 
 
 
