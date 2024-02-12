@@ -10,7 +10,7 @@ I'm Tapanawat,
 
 ## Contact
 
-Email[tapanawat2004@gmail.com]
+[Email](tapanawat2004@gmail.com)
 
 
 
