@@ -1,16 +1,11 @@
-## Hi there
-
 ## About Me
-
-I'm Tapanawat, 
-
-
+Tapanawat Muangsri 
 
 
 
 ## Contact
-
-[Email](tapanawat2004@gmail.com)  
+phone : +66 95816 4009
+email : tapanawat.m@gmail.com
 
 
 
